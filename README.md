@@ -1,0 +1,1 @@
+# userscript-misskey-poor-labels-and-texts-remover
